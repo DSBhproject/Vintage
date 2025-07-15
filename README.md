@@ -54,5 +54,5 @@ Ideal for lo-fi beats, ambient layers, retro synths, or warming up sterile mixes
 
 ## 👤 Credits
 
-Developed by Diego @ DSB AUDIO  
+Developed by Diego @ DSB AUDIO based and inspired for some examples of the Andy Farnell's book "Designing Sounds". 
 Crafted to bring warmth, wear, and wobble into your digital mix ❤️
