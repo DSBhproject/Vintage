@@ -40,7 +40,8 @@ Ideal for lo-fi beats, ambient layers, retro synths, or warming up sterile mixes
 - `vintage~.pd` → main patch  
 - `gui.jpg` → GUI image preview  
 - `logo.jpg` → logo for presentation  
-- `README.md` → documentation  
+- `README.md` → documentation
+- `Vintage.cmb` → plugin only for reason users to matching the native experience of the DAW
 
 ---
 
