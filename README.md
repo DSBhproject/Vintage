@@ -42,6 +42,11 @@ Ideal for lo-fi beats, ambient layers, retro synths, or warming up sterile mixes
 - `logo.jpg` → logo for presentation  
 - `README.md` → documentation
 - `Vintage.cmb` → plugin only for reason users to matching the native experience of the DAW
+  
+In order to use the combinator 2 version, follow the next steps: 
+- Download a install plugdata VST
+- Open it inside the combi and use the plugdata store to download the device "vintage" by Diego Serrano.
+- Save the changes .cmb file.
 
 ---
 
