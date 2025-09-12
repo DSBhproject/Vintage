@@ -60,4 +60,4 @@ In order to use the combinator 2 version, follow the next steps:
 
 ## 👤 Credits
 
-Developed by Diego @ DSB AUDIO based and inspired for some examples of the https://www.musicdsp.org page❤️
+Developed by Diego Serrano. Powered by Pure Data / plugdata community and based and inspired for some examples of the https://www.musicdsp.org page❤️
